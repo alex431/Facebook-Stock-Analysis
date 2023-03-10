@@ -27,9 +27,7 @@ Special Instructions: The pre-release version of Jupyter needs to be installed w
 * Made a Pivot table.
 * Wrote in Jupyter's markdown cells explaining my thought process and code.
 
-
 Source:https://www.kaggle.com/datasets/kalilurrahman/facebook-stock-data-live-and-latest
-
 
 <table>
   <tr>
