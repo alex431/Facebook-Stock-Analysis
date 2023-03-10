@@ -37,10 +37,6 @@ Special Instructions: The pre-release version of Jupyter needs to be installed w
 Source:https://www.kaggle.com/datasets/kalilurrahman/facebook-stock-data-live-and-latest
 
 
-
-
-
-
 <table>
   <tr>
     <th>Column</th>
