@@ -37,15 +37,9 @@ Special Instructions: The pre-release version of Jupyter needs to be installed w
 Source:https://www.kaggle.com/datasets/kalilurrahman/facebook-stock-data-live-and-latest
 
 
-<style>
-table, th, td 
-{
-  padding: 5px;
-  text-align: center;
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-</style>
+
+
+
 
 <table>
   <tr>
