@@ -24,8 +24,10 @@ Special Instructions: The pre-release version of Jupyter needs to be installed w
 * Read two data files (JSON,CSV, Excel, etc.)
 * Performed a pandas merge with two data sets,then calculate some new values based on the new data set.
 * Made a dashboard to display the data.
-* Made a Pivot table.
+* Made a pivot table.
+* Built a custom data dictionary.
 * Wrote in Jupyter's markdown cells explaining my thought process and code.
+
 
 Source:https://www.kaggle.com/datasets/kalilurrahman/facebook-stock-data-live-and-latest
 
