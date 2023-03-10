@@ -1,5 +1,11 @@
 # Facebook-Stock-Analysis
 
+table, th, td 
+{
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
 For the Code Louisville data analysis final project, I wanted to extend my work from the last cohort.This desire drove me to investigate Facebook.
 
 In my data breaches analysis, I found that Facebook had experienced the most reported data breaches based on my dataset. In order to pursue this investigation into Facebook, I located and downloaded an dataset of their stock history found on Kaggle. I wanted to see if there were any effects from an financial perspective.
@@ -30,24 +36,76 @@ Special Instructions: The pre-release version of Jupyter needs to be installed w
 
 Source:https://www.kaggle.com/datasets/kalilurrahman/facebook-stock-data-live-and-latest
 
-<u>Description of Data</u><br>
-The dataset contains the following columns:
-- Year
-- Month
-- Breach
-  * Is there a breach? 
-- Records
-  * Number of compromised records 
-- Open
-  * Opening price of stock
-- High
-  * Highest price of stock 
-- Low
-  * Lowest price of stock 
-- Close
-  * Closing price of stock 
-- Volume
-  * The number of traded stocks
+
+<style>
+table, th, td 
+{
+  padding: 5px;
+  text-align: center;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+</style>
+
+<table>
+  <tr>
+    <th>Column</th>
+    <th>Description</th>
+    <th>Data Type</th>
+  </tr>
+   <tr>
+    <td>Year</td>
+    <td>Component of the Date </td>
+    <td>int32</td>
+   </tr>
+   <tr>
+    <td>Month</td>
+    <td>Component of the Date </td>
+    <td>int64</td>
+   </tr>
+   <tr>
+    <td>Formatted Date</td>
+    <td>Combination of Year and Month </td>
+    <td>object</td>
+   </tr>
+   <tr>
+    <td>Breach</td>
+    <td>Indication that a breach occured</td>
+    <td>int64</td>
+   </tr>
+    <tr>
+    <td>Records</td>
+    <td>The number of records that were compromised in a breach</td>
+    <td>object</td>
+   </tr>
+     <tr>
+    <td>Open</td>
+    <td>The opening price of stock</td>
+    <td>float64</td>
+   </tr>
+    <tr>
+    <td>High</td>
+    <td>The highest price of stock</td>
+    <td>float64</td>
+    </tr>
+     <tr>
+    <td>Low</td>
+    <td>The lowest price of stock</td>
+    <td>float64</td>
+    </tr>
+     <tr>
+    <td>Close</td>
+    <td>The closing price of stock</td>
+    <td>float64</td>
+    </tr>
+    <tr>
+    <td>Volume</td>
+    <td>The number of traded stocks</td>
+    <td>float64</td>
+    </tr>
+</table>
+
+
 
 
 
