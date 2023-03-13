@@ -29,8 +29,17 @@ Special Instructions: The pre-release version of Jupyter needs to be installed w
 * Wrote in Jupyter's markdown cells explaining my thought process and code.
 
 
-Source:https://www.kaggle.com/datasets/kalilurrahman/facebook-stock-data-live-and-latest
+<u>Date Sources</u></br>
 
+https://www.kaggle.com/datasets/hishaamarmghan/list-of-top-data-breaches-2004-2021
+
+https://www.kaggle.com/datasets/kalilurrahman/facebook-stock-data-live-and-latest
+
+<u>Facebook Stock Dashboard</u>
+
+https://lookerstudio.google.com/s/h-TjNVlXEvk
+
+<p style="text-align:center"></br>Facebook Data Dictionary</p>
 <table>
   <tr>
     <th>Column</th>
