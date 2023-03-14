@@ -5,10 +5,12 @@ For the Code Louisville data analysis final project, I wanted to extend my work 
 In my data breaches analysis, I found that Facebook had experienced the most reported data breaches based on my dataset. In order to pursue this investigation into Facebook, I located and downloaded an dataset of their stock history found on Kaggle. I wanted to see if there were any effects from an financial perspective.
 
 Upon investigation, I found some questions to ask against the dataset:
-*What is the highest and lowest prices of stock?
-*What is the the highest and lowest number of traded stocks?
-*Is there relationship between the cost of stock and value of traded stocks?
-*Does the effects of an breach become minimal depending on the organization's size?
+<ul>
+<li>*What is the highest and lowest prices of stock?</li>
+<li>What is the the highest and lowest number of traded stocks?</li>
+<li>Is there relationship between the cost of stock and value of traded stocks?</li>
+<li>Does the effects of an breach become minimal depending on the organization's size?</li>
+</ul>
 
 Note: I started working on this project using anaconda which utilized python 3.9.13. After condsideration and failed update, I decided to try python 3.10.9.
 
@@ -38,6 +40,8 @@ https://www.kaggle.com/datasets/kalilurrahman/facebook-stock-data-live-and-lates
 <u>Facebook Stock Dashboard</u>
 
 https://lookerstudio.google.com/s/h-TjNVlXEvk
+
+<iframe width="600" height="450" src="https://lookerstudio.google.com/embed/reporting/df836a0b-e61d-41a7-940e-90b846ce9a20/page/p_a7zz9a233c" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 <p style="text-align:center"></br>Facebook Data Dictionary</p>
 <table>
