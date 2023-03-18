@@ -8,7 +8,8 @@ Upon investigation, I found some questions to ask against the dataset:
 <ul>
 <li>*What is the highest and lowest prices of stock?</li>
 <li>What is the the highest and lowest number of traded stocks?</li>
-<li>Is there relationship between the cost of stock and value of traded stocks?</li>
+<li>Is there relationship between the cost of stock and value of traded stocks?
+</li>
 <li>Does the effects of an breach become minimal depending on the organization's size?</li>
 </ul>
 
@@ -41,7 +42,8 @@ https://www.kaggle.com/datasets/kalilurrahman/facebook-stock-data-live-and-lates
 
 https://lookerstudio.google.com/s/h-TjNVlXEvk
 
-<iframe width="600" height="450" src="https://lookerstudio.google.com/embed/reporting/df836a0b-e61d-41a7-940e-90b846ce9a20/page/p_a7zz9a233c" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+<a href="conclusion.ipynb">conlcusion</a>
 
 <p style="text-align:center"></br>Facebook Data Dictionary</p>
 <table>
