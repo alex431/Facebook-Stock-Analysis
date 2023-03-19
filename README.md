@@ -8,9 +8,7 @@ Upon investigation, I found some questions to ask against the dataset:
 <ul>
 <li>*What is the highest and lowest prices of stock?</li>
 <li>What is the the highest and lowest number of traded stocks?</li>
-<li>Is there relationship between the cost of stock and value of traded stocks?
-</li>
-<li>Does the effects of an breach become minimal depending on the organization's size?</li>
+<li>Is there a relationship between the price of stock and the number of traded stocks?</li>
 </ul>
 
 Note: I started working on this project using anaconda which utilized python 3.9.13. After condsideration and failed update, I decided to try python 3.10.9.
@@ -42,8 +40,8 @@ https://www.kaggle.com/datasets/kalilurrahman/facebook-stock-data-live-and-lates
 
 https://lookerstudio.google.com/s/h-TjNVlXEvk
 
-
-<a href="conclusion.ipynb">conlcusion</a>
+<u>Conclusion</u><br>
+[Results](conclusion.ipynb)
 
 <p style="text-align:center"></br>Facebook Data Dictionary</p>
 <table>
