@@ -2,7 +2,7 @@
 
 For the Code Louisville data analysis final project, I wanted to extend my work from the last cohort.This desire drove me to investigate Facebook.
 
-In my data breaches analysis, I found that Facebook had experienced the most reported data breaches based on my dataset. In order to pursue this investigation into Facebook, I located and downloaded an dataset of their stock history found on Kaggle. I wanted to see if there were any effects from an financial perspective.
+In my data breaches analysis, I found that Facebook had experienced the most reported data breaches. In order to pursue this investigation into Facebook, I located and downloaded an dataset of their stock history found on Kaggle. I wanted to see if there were any effects from an financial perspective.
 </br>
 
 <details>
