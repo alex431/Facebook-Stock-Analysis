@@ -3,26 +3,19 @@
 For the Code Louisville data analysis final project, I wanted to extend my work from the last cohort.This desire drove me to investigate Facebook.
 
 In my data breaches analysis, I found that Facebook had experienced the most reported data breaches. In order to pursue this investigation into Facebook, I located and downloaded an dataset of their stock history found on Kaggle. I wanted to see if there were any effects from an financial perspective.
-</br>
 
 <details>
   <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#investigation">Investigation</a></li>
+  <ol type="I">
     <li><a href="#project-requirments">Project Requirements</a></li>
+    <li><a href="#project-hierarchy">Project Hierarchy</a></li>
+    <li><a href="#project-instructions">Project Instructions</a></li>
+    <li><a href="#investigation">Investigation</a></li>
     <li><a href="#features">Features</a></li>
     <li><a href="#data">Data</a></li>
     <li><a href="#conclusion">Conclusion</a></li>
   </ol>
 </details>
-
-## Investigation
-Upon investigation, I found some questions to ask against the dataset:
-<ul>
-<li>*What is the highest and lowest prices of stock?</li>
-<li>What is the the highest and lowest number of traded stocks?</li>
-<li>Is there a relationship between the price of stock and the number of traded stocks?</li>
-</ul>
 
 ## Project Requirements
 Note: I started working on this project using anaconda which utilized python 3.9.13. After condsideration and failed update, I decided to try python 3.10.9.
@@ -40,6 +33,38 @@ pip install <package>
 * Seaborn
 * Matplotlib
 * Statistics
+
+## Project Hierarchy
+<dl>
+
+<dt>Data Breach Analysis</dt>
+<dd>This notebook is altered version of the original analysis where it has been appended to build a pivot table of annual averages of compromised records pertaining to Facebook.Then, it outputs the derived pivot table to an csv file.<dd>
+
+<dt>Facebook Stock Analysis</dt>
+<dd>This notebook builds a pivot table of monthly stock averages and outputs it to an csv file.</dd>
+
+<dt>Effects on Facebook Stocks</dt>
+<dd>This notebook merges the pivot tables built from the Data Breach Analysis and Facebook Stock Analysis notebooks. Then it outputs the merged data to an csv file.</dd>
+
+<dt>Looker Studio</dt>
+<dd>The dynamic visualization tool that I utilized to construct a interactive dashboard of the data. There is a link under the data section.</dd>
+
+</dl>
+
+## Project Instructions
+Please build and run the jupyter notebooks in the following order:
+
+1.  [Data Breaches Analysis](db_analysis.ipynb)
+2.  [Facebook Stock Analysis](FB_stock_analysis.ipynb)
+3.  [Effects on Facebook Stocks](FB_stock_effects.ipynb)
+
+## Investigation
+Upon investigation, I found some questions to ask against the dataset:
+<ul>
+<li>*What is the highest and lowest prices of stock?</li>
+<li>What is the the highest and lowest number of traded stocks?</li>
+<li>Is there a relationship between the price of stock and the number of traded stocks?</li>
+</ul>
 
 ## Features
 
