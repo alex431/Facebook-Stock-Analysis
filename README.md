@@ -38,16 +38,16 @@ pip install <package>
 <dl>
 
 <dt>Data Breach Analysis</dt>
-<dd>This notebook is altered version of the original analysis where it has been appended to build a pivot table of annual averages of compromised records pertaining to Facebook.Then, it outputs the derived pivot table to an csv file.<dd>
+<dd>This notebook is an altered version of the original analysis where it has been appended to build a pivot table of annual averages of compromised records pertaining to Facebook.Then, it outputs the derived pivot table to a csv file.<dd>
 
 <dt>Facebook Stock Analysis</dt>
-<dd>This notebook builds a pivot table of monthly stock averages and outputs it to an csv file.</dd>
+<dd>This notebook builds a pivot table of monthly stock averages and outputs it to a csv file.</dd>
 
 <dt>Effects on Facebook Stocks</dt>
-<dd>This notebook merges the pivot tables built from the Data Breach Analysis and Facebook Stock Analysis notebooks. Then it outputs the merged data to an csv file.</dd>
+<dd>This notebook merges the pivot tables built from the Data Breach Analysis and Facebook Stock Analysis notebooks. Then it outputs the merged data to a csv file.</dd>
 
 <dt>Looker Studio</dt>
-<dd>The dynamic visualization tool that I utilized to construct a interactive dashboard of the data. There is a link under the data section.</dd>
+<dd>The dynamic visualization tool that I utilized to construct an interactive dashboard of the data. There is a link under the data section.</dd>
 
 </dl>
 
