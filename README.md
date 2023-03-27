@@ -55,8 +55,19 @@ pip install <package>
 Please build and run the jupyter notebooks in the following order:
 
 1.  [Data Breaches Analysis](db_analysis.ipynb)
+ 
+    * Made a pivot table
+    * Wrote in Jupyter's markdown cells explaining my thought process and code.
+
 2.  [Facebook Stock Analysis](FB_stock_analysis.ipynb)
+   
+    * Made a pivot table
+    * Wrote in Jupyter's markdown cells explaining my thought process and code.
+
 3.  [Effects on Facebook Stocks](FB_stock_effects.ipynb)
+
+    * Performed a pandas merge with two data sets,then calculated some new values based on the new data set.
+    * Wrote in Jupyter's markdown cells explaining my thought process and code.
 
 ## Investigation
 Upon investigation, I found some questions to ask against the dataset:
@@ -69,7 +80,7 @@ Upon investigation, I found some questions to ask against the dataset:
 ## Features
 
 * Read two data files (JSON,CSV, Excel, etc.)
-* Performed a pandas merge with two data sets,then calculate some new values based on the new data set.
+* Performed a pandas merge with two data sets,then calculated some new values based on the new data set.
 * Made a dashboard to display the data.
 * Made a pivot table.
 * Built a custom data dictionary.
