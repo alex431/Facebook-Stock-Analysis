@@ -20,15 +20,14 @@ In my data breaches analysis, I found that Facebook had experienced the most rep
 ## Project Requirements
 Note: I started working on this project using anaconda which utilized python 3.9.13. After condsideration and failed update, I decided to try python 3.10.9.
 
-Special Instructions: The pre-release version of Jupyter needs to be installed within Visual Studio Code.</br>
-
+Special Instructions: The pre-release version of Jupyter needs to be installed within Visual Studio Code.
 
 Use the following syntax to install the required packages:
 ```
 pip install <package>
 ```
 
-<u>Required packages to install</u>
+<ins>Required packages to install</ins>
 * Pandas
 * Seaborn
 * Matplotlib
@@ -93,7 +92,7 @@ Upon investigation, I found some questions to ask against the dataset:
 
 * https://www.kaggle.com/datasets/kalilurrahman/facebook-stock-data-live-and-latest </br>
 
-<div style="text-align:center">Facebook Data Dictionary</div>
+<center>Facebook Data Dictionary</center>
 <link href="dictionary style.css" rel="stylesheet">
 <table>
   <tr>
@@ -170,7 +169,7 @@ Upon investigation, I found some questions to ask against the dataset:
     </tr>
 </table>
 </br>
-<u>Facebook Stock Dashboard</u>
+<ins>Facebook Stock Dashboard</ins>
 
 https://lookerstudio.google.com/s/h-TjNVlXEvk
 
