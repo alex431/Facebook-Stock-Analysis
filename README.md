@@ -87,14 +87,13 @@ Upon investigation, I found some questions to ask against the dataset:
 * Wrote in Jupyter's markdown cells explaining my thought process and code.
 
 ## Data
-<u>Sources</u>
+<ins>Sources</ins>
 
 * https://www.kaggle.com/datasets/hishaamarmghan/list-of-top-data-breaches-2004-2021
 
-* https://www.kaggle.com/datasets/kalilurrahman/facebook-stock-data-live-and-latest
+* https://www.kaggle.com/datasets/kalilurrahman/facebook-stock-data-live-and-latest </br>
 
-
-<p style="text-align:center">Facebook Data Dictionary</p>
+<div style="text-align:center">Facebook Data Dictionary</div>
 <link href="dictionary style.css" rel="stylesheet">
 <table>
   <tr>
