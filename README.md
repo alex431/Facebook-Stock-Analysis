@@ -43,7 +43,7 @@ pip install <package>
 <dd>This notebook builds a pivot table of monthly stock averages and outputs it to a csv file.</dd>
 
 <dt>Effects on Facebook Stocks</dt>
-<dd>This notebook merges the pivot tables built from the Data Breach Analysis and Facebook Stock Analysis notebooks. Then it outputs the merged data to a csv file.</dd>
+<dd>This notebook merges the pivot tables built from the Data Breach Analysis and Facebook Stock Analysis notebooks. Then, it outputs the merged data to a csv file.</dd>
 
 <dt>Looker Studio</dt>
 <dd>The dynamic visualization tool that I utilized to construct an interactive dashboard of the data. There is a link under the data section.</dd>
