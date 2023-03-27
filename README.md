@@ -92,7 +92,7 @@ Upon investigation, I found some questions to ask against the dataset:
 
 * https://www.kaggle.com/datasets/kalilurrahman/facebook-stock-data-live-and-latest </br>
 
-<center>Facebook Data Dictionary</center>
+<p style="text-align: center;">Facebook Data Dictionary</p>
 <link href="dictionary style.css" rel="stylesheet">
 <table>
   <tr>
