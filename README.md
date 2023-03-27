@@ -83,12 +83,7 @@ Upon investigation, I found some questions to ask against the dataset:
 * https://www.kaggle.com/datasets/kalilurrahman/facebook-stock-data-live-and-latest
 
 <p style="text-align:center"></br>Facebook Data Dictionary</p>
-<style>
-  th, td {
-    border: 1px solid #eeeeef;
-    text-align: center;
-  }
-</style>  
+<link href="dictionary style.css" rel="stylesheet">
 <table>
   <tr>
     <th>Column</th>
