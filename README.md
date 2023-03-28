@@ -1,8 +1,8 @@
 # Facebook-Stock-Analysis
 
-For the Code Louisville data analysis final project, I wanted to extend my work from the last cohort.This desire drove me to investigate Facebook.
+For the Code Louisville data analysis final project, I wanted to extend my work from the last cohort. This desire drove me to investigate Facebook.
 
-In my data breaches analysis, I found that Facebook had experienced the most reported data breaches. In order to pursue this investigation into Facebook, I located and downloaded an dataset of their stock history found on Kaggle. I wanted to see if there were any effects from an financial perspective.
+In my data breaches analysis, I found that Facebook had experienced the most reported data breaches. In order to pursue this investigation into Facebook, I located and downloaded a dataset of their stock history found on Kaggle. I wanted to see if there were any effects from a financial perspective.
 
 <details>
   <summary>Table of Contents</summary>
@@ -18,7 +18,7 @@ In my data breaches analysis, I found that Facebook had experienced the most rep
 </details>
 
 ## Project Requirements
-Note: I started working on this project using anaconda which utilized python 3.9.13. After condsideration and failed update, I decided to try python 3.10.9.
+Note: I started working on this project using Anaconda which utilized python 3.9.13. After careful consideration and a failed update, I decided to try python 3.10.9.
 
 Special Instructions: The pre-release version of Jupyter needs to be installed within Visual Studio Code.
 
@@ -37,13 +37,13 @@ pip install <package>
 <dl>
 
 <dt>Data Breach Analysis</dt>
-<dd>This notebook is an altered version of the original analysis where it has been appended to build a pivot table of annual averages of compromised records pertaining to Facebook.Then, it outputs the derived pivot table to a csv file.<dd>
+<dd>This notebook is an altered version of the original analysis, where it has been appended to build a pivot table of annual averages of compromised records pertaining to Facebook. Then, it outputs the derived pivot table to a CSV file. <dd>
 
 <dt>Facebook Stock Analysis</dt>
-<dd>This notebook builds a pivot table of monthly stock averages and outputs it to a csv file.</dd>
+<dd>This notebook builds a pivot table of monthly stock averages and outputs it to a CSV file.</dd>
 
 <dt>Effects on Facebook Stocks</dt>
-<dd>This notebook merges the pivot tables built from the Data Breach Analysis and Facebook Stock Analysis notebooks. Then, it outputs the merged data to a csv file.</dd>
+<dd>This notebook merges the pivot tables built from the Data Breach Analysis and Facebook Stock Analysis notebooks. Then, it outputs the merged data to a CSV file.</dd>
 
 <dt>Looker Studio</dt>
 <dd>The dynamic visualization tool that I utilized to construct an interactive dashboard of the data. There is a link under the data section.</dd>
@@ -71,15 +71,15 @@ Please build and run the jupyter notebooks in the following order:
 ## Investigation
 Upon investigation, I found some questions to ask against the dataset:
 <ul>
-<li>What is the highest and lowest prices of stock?</li>
-<li>What is the highest and lowest number of traded stocks?</li>
-<li>Is there a relationship between the price of stock and the number of traded stocks?</li>
+<li>What are the highest and lowest prices of stock?</li>
+<li>What are the highest and lowest number of traded stocks?</li>
+<li>Is there a relationship between the price of a stock and the number of traded stocks?</li>
 </ul>
 
 ## Features
 
 * Read two data files (JSON,CSV, Excel, etc.)
-* Performed a pandas merge with two data sets,then calculated some new values based on the new data set.
+* Performed a pandas merge with two data sets, then calculated some new values based on the new data set.
 * Made a dashboard to display the data.
 * Made a pivot table.
 * Built a custom data dictionary.
@@ -127,7 +127,7 @@ Upon investigation, I found some questions to ask against the dataset:
    </tr>
    <tr>
     <td>Breach</td>
-    <td>Indication that a breach occured</td>
+    <td>Indication that a breach occurred</td>
     <td>int64</td>
     <td>Formulated</td>
    </tr>
