@@ -72,7 +72,7 @@ Please build and run the jupyter notebooks in the following order:
 Upon investigation, I found some questions to ask against the dataset:
 <ul>
 <li>What are the highest and lowest prices of stock?</li>
-<li>What are the highest and lowest number of traded stocks?</li>
+<li>What are the highest and lowest numbers of traded stocks?</li>
 <li>Is there a relationship between the price of a stock and the number of traded stocks?</li>
 </ul>
 
