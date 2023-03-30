@@ -28,10 +28,10 @@ pip install <package>
 ```
 
 <ins>Required packages to install</ins>
-* Pandas
-* Seaborn
-* Matplotlib
-* Statistics
+* pandas
+* seaborn
+* matplotlib
+* statistics
 
 ## Project Hierarchy
 <dl>
