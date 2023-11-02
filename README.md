@@ -27,7 +27,7 @@ Use the following syntax to install the required packages:
 pip install <package>
 ```
 
-<ins>Required packages to install</ins>
+### Required Packages to Install
 * pandas
 * seaborn
 * matplotlib
@@ -53,17 +53,17 @@ pip install <package>
 ## Project Instructions
 Please build and run the jupyter notebooks in the following order:
 
-1.  [Data Breaches Analysis](db_analysis.ipynb)
+1.  [Data Breaches Analysis](./ipynb/FB_db_analysis.ipynb)
  
     * Made a pivot table
     * Wrote in Jupyter's markdown cells explaining my thought process and code.
 
-2.  [Facebook Stock Analysis](FB_stock_analysis.ipynb)
+2.  [Facebook Stock Analysis](./ipynb/FB_stock_analysis.ipynb)
    
     * Made a pivot table
     * Wrote in Jupyter's markdown cells explaining my thought process and code.
 
-3.  [Effects on Facebook Stocks](FB_stock_effects.ipynb)
+3.  [Effects on Facebook Stocks](./ipynb/FB_stock_effects.ipynb)
 
     * Performed a pandas merge with two data sets,then calculated some new values based on the new data set.
     * Wrote in Jupyter's markdown cells explaining my thought process and code.
@@ -91,9 +91,10 @@ Upon investigation, I found some questions to ask against the dataset:
 * https://www.kaggle.com/datasets/hishaamarmghan/list-of-top-data-breaches-2004-2021
 
 * https://www.kaggle.com/datasets/kalilurrahman/facebook-stock-data-live-and-latest 
-</br>
+
+<br>
 <p align="center">Facebook Data Dictionary</p>
-<link href="dictionary style.css" rel="stylesheet">
+<link href="css/dict_style.css" rel="stylesheet">
 <table>
   <tr>
     <th>Column</th>
@@ -169,12 +170,13 @@ Upon investigation, I found some questions to ask against the dataset:
     </tr>
 </table>
 </br>
-<ins>Facebook Stock Dashboard</ins>
+
+###  Facebook Stock Dashboard
 
 https://lookerstudio.google.com/s/h-TjNVlXEvk
 
 ## Conclusion
-[Results](conclusion.ipynb)
+[Results](./ipynb/conclusion.ipynb)
 
 
 
